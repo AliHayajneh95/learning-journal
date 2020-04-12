@@ -8,19 +8,5 @@ and here are 3 things to remember to stay in the growthmindset"
 - don't be negative
 - don't base you happieness on others opinions and experiences that can either go bad or good
 
-# Github Profile
+# 'Github' Profile
 and here is link to my [Github Profile](https://github.com/AliHayajneh95)
-
-
-# Header 1
-##  2
-### Header 3
-
-- give your self a releif knowing you can always do better and the bad things that happenned are there to learn
-- don't be negative
-- don't base you happieness on others opinions and experiences that can either go bad or good
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
