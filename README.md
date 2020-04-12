@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## The Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/AliHayajneh95/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Generaly its a mindset of not being repulsive and not focusing on negative things in your experience but rather give yourself a relief and focus on the good stuff and learn so you can do better next times.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+and here are 3 things to remember to stay in the growthmindset"
+
+-give your self a releif knowing you can always do better and the bad things that happenned are there to learn
+-don't be negative
+-don't base you happieness on others opinions and experiences that can either go bad or good
+
+[Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -12,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+##  2
 ### Header 3
 
 - Bulleted
@@ -22,16 +28,3 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AliHayajneh95/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
