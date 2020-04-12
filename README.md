@@ -8,5 +8,5 @@ and here are 3 things to remember to stay in the growthmindset"
 - don't be negative
 - don't base you happieness on others opinions and experiences that can either go bad or good
 
-# 'Github' Profile
+# Github Profile
 and here is link to my [Github Profile](https://github.com/AliHayajneh95)
