@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="CSS/style1.css"> 
     <title>The best Netflix Movies</title>
 </head>
 <body>
