@@ -11,7 +11,8 @@ and here are 3 things to remember to stay in the growthmindset"
 # Github Profile
 and here is link to my [**_Github Profile_**](https://github.com/AliHayajneh95)
 
-First Header | Second Header
+Lab | Link
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Read01-Learning-Markdown | [Link](https://alihayajneh95.github.io/learning-journal/Read01-Learning-Markdown)
+Read02-TheCoder-Computer | [Link](https://alihayajneh95.github.io/learning-journal/Read02-TheCoder-Computer)
+Lab03-Revisions-and-the-Cloud | [Link](https://alihayajneh95.github.io/learning-journal/Lab03-Revisions-and-the-Cloud)
