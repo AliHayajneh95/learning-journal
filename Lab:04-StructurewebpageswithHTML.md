@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="CSS/style1.css"> 
     <title>The best Netflix Movies</title>
 </head>
 <body>
@@ -13,8 +12,8 @@
         </div>
         <nav>
             <ul>
-                <li><a href=""> Horror </a></li>
-                <li><a href="" class="you here"><strong>Action</strong> </a></li>
+                <li><a href="" class="you here"> Horror </a></li>
+                <li><a href=""><strong>Action</strong> </a></li>
                 <li><a href="">fantasy </a></li>
             </ul>
         </nav>
@@ -22,36 +21,33 @@
     <main>
         <article>
             <section>
-                <h2>1.) La casa de papel </h2>
-                <img src="https://media.falsoo.com/large/2019/7/21/201907210246344634.jpg">
-                <p>La Casa de Papel. An unusual group of robbers attempt to carry out the most perfect robbery in
-                    Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.
+                <h2>1.) The ring </h2>
+                <img src="https://www.technobuffalo.com/sites/technobuffalo.com/files/styles/mediumplus/public/wp/2017/02/the-ring-samara.jpg">
+                <p>The Ring is a 2002 American supernatural horror film directed by Gore Verbinski and starring Naomi Watts, Martin Henderson, David Dorfman, Brian Cox, and Daveigh Chase. It is a remake of the 1998 Japanese horror film Ring, based on the novel of the same name by Koji Suzuki. Watts portrays a journalist who investigates a cursed videotape that seemingly kills the viewer seven days after watching it.
                 </p>
             </section>
         </article>
         <article>
             <section>
                 <h2>
-                    2.) The Witcher
+                    2.) Shaun of the Dead
                 </h2>
                 <img
-                    src="https://i0.wp.com/www.glitched.online/wp-content/uploads/2019/12/the_witcher_netflix_promos-2.jpg?resize=1536%2C864&ssl=1">
+                    src="https://upload.wikimedia.org/wikipedia/en/8/8d/Shaun_of_the_Dead_film_poster.jpg">
                 <p>
-                    The Witcher is an American fantasy drama web television series created by Lauren Schmidt Hissrich
-                    for Netflix. It is based on the book series of the same name by Polish writer Andrzej Sapkowski.
+                    Shaun of the Dead is a 2004 horror comedy film directed by Edgar Wright, who co-wrote it with Simon Pegg. The film stars Pegg and Nick Frost as mates Shaun and Ed, Londoners who are caught in an apocalyptic zombie uprising and attempt to take refuge in a local pub with their loved ones.
                 </p>
             </section>
         </article>
         <article>
             <section>
                 <h2>
-                    3.) The Last Kingdom
+                    3.) It
                 </h2>
                 <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByJwxFK9Fa9TmO5zV90uo6eFs0Zo6bouK3VNx4xaYcSqIXzyb&s">
+                    src="https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg">
                 <p>
-                    As Alfred the Great defends his kingdom from Norse invaders, Uhtred -- born a Saxon but raised by
-                    Vikings -- seeks to claim his ancestral birthright.
+                    It, retroactively known as It Chapter One, is a 2017 American supernatural horror film based on Stephen King's 1986 novel of the same name.[5] Produced by New Line Cinema, KatzSmith Productions, Lin Pictures, Vertigo Entertainment,[6][7] and distributed by Warner Bros.
                 </p>
             </section>
         </article>
