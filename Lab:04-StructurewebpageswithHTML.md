@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="css/style1.css">
     <title>The best Netflix Movies</title>
 </head>
 <body>
@@ -12,8 +13,8 @@
         </div>
         <nav>
             <ul>
-                <li><a href="" class="you here"> Horror </a></li>
-                <li><a href=""><strong>Action</strong> </a></li>
+                <li><a href="" class="you here"> <strong>Horror</strong> </a></li>
+                <li><a href="">Action </a></li>
                 <li><a href="">fantasy </a></li>
             </ul>
         </nav>
@@ -30,7 +31,7 @@
         <article>
             <section>
                 <h2>
-                    2.) Shaun of the Dead
+                    2. Shaun of the Dead
                 </h2>
                 <img
                     src="https://upload.wikimedia.org/wikipedia/en/8/8d/Shaun_of_the_Dead_film_poster.jpg">
@@ -42,7 +43,7 @@
         <article>
             <section>
                 <h2>
-                    3.) It
+                    3. It
                 </h2>
                 <img
                     src="https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg">
