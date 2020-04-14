@@ -1,6 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
+    <script type="text/javascript" src="js-file.js"></script>
     <link rel="stylesheet" href="style1.css">
     <title>The best Netflix Movies</title>
 </head>
