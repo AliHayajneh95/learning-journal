@@ -1,5 +1,3 @@
-## My first github push/pull
-
 I learn how to do these things by doing this reading
 
 - [x] CSS treats each html element as if it appears inside its own box and uses rules to indicate
