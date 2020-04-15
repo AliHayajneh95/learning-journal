@@ -1,6 +1,8 @@
 ## The Growth Mindset
 
-Generaly its a mindset of not being repulsive and not focusing on negative things in your experience but rather give yourself a relief and focus on the good stuff and learn so you can do better next times.
+![](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
+
+Generaly its a mindset of not being __repulsive__ and not __focusing on negative__ things in your experience but rather __give yourself a releif__ and __focus on the good stuff__ and __learn__ so you can do better __next times__.
 
 and here are 3 things to remember to stay in the growthmindset"
 
